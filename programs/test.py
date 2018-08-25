@@ -1,13 +1,15 @@
+#!/usr/bin/python3
+
 # import libraries
-import requests, csv
+import requests, csv, sys
 from bs4 import BeautifulSoup
 
 # specify url
-#quote_page ='https://www.olympic.org/pyeongchang-2018/biathlon/mens-12-5km-pursuit'
-quote_page = 'https://www.olympic.org/pyeongchang-2018/snowboard/ladies-halfpipe'
+quote_page = str(sys.argv[1])
 
 # build CSV filename
-csvname = quote_page[24:].replace("/","-") + '.csv'
+domain_length = len('https://www.olympic.org/')
+csvname = quote_page[domain_length:].replace("/","-") + '.csv'
 
 # write out header row to CSV file
 with open('../data/'+ csvname,'a') as csv_file:
