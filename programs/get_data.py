@@ -21,28 +21,26 @@ page = requests.get(quote_page)
 
 # parse html using BeautifulSoup and store in variable soup
 soup = BeautifulSoup(page.content,'html.parser')
+soup = soup.find('section',attrs={'class':"table-box"}) # use first table-box only
 
-# get total number of participants for loop counter
-total = soup.find_all("span",attrs={'class':"num-txt"})[-1]
-total_participants = total.text.strip().replace(".","")
-total_participants = int(total_participants)
-
+# get total number of participants for loop counter by counting all names
+total_participants = len(soup.find_all("strong",attrs={'class':"name"}))
 num_participants=list(range(0,total_participants))
 
 for i in num_participants:
-	name_box = soup.find_all("strong",attrs={"class":"name"})[61+i]
+	name_box = soup.find_all("strong",attrs={"class":"name"})[i]
 	name = name_box.text.title().strip()
 	#print(name)
 
-	country_box = soup.find_all("div",attrs={"class":"profile-row"})[0+i]
+	country_box = soup.find_all("div",attrs={"class":"profile-row"})[i]
 	country = country_box.text.strip()
 	#print(country)
 
-	result_box = soup.find_all("td",attrs={"class":"col3"})[0+i]
+	result_box = soup.find_all("td",attrs={"class":"col3"})[i]
 	result = result_box.text.strip()
 	#print(result)
 
-	notes_box = soup.find_all("td",attrs={"class":"last mobile-hide"})[0+i]
+	notes_box = soup.find_all("td",attrs={"class":"last mobile-hide"})[i]
 	notes = notes_box.text.strip()
 	#print(notes)
 
