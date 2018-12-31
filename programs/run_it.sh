@@ -1,4 +1,4 @@
-# Run every possiblity and extract CSV
+# Run every possiblity for men's 400m even and extract CSV
 
 python3 get_data.py https://www.olympic.org/athens-1896/athletics/400m-men
 python3 get_data.py https://www.olympic.org/paris-1900/athletics/400m-men
