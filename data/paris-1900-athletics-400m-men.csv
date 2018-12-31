@@ -1,7 +1,7 @@
-Participant,Country,Result,Notes
-Maxwell Warburn Long,USA,49.4,
-William Holland,USA,49.6,
-Ernst Schultz,DEN,,Time estimated
-Dixon Boardman,USA,,Did not start
-Harry Glover Lee,USA,,Did not start
-William Moloney,USA,,Did not start
+Participant,Country,Result,Notes,Location,Event_Year
+Maxwell Warburn Long,USA,49.4,,Paris,1900
+William Holland,USA,49.6,,Paris,1900
+Ernst Schultz,DEN,,Time estimated,Paris,1900
+Dixon Boardman,USA,,Did not start,Paris,1900
+Harry Glover Lee,USA,,Did not start,Paris,1900
+William Moloney,USA,,Did not start,Paris,1900

@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Quincy Watts,USA,43.50,Olympic record
-Steve Lewis,USA,44.21,
-Samson Kitur,KEN,44.24,
-Ian Morris,TTO,44.25,
-Roberto Hernández,CUB,44.52,
-David Grindley,GBR,44.75,
-Ibrahim Ismail S Faraj,QAT,45.10,
-Susumu Takano,JPN,45.18,
+Participant,Country,Result,Notes,Location,Event_Year
+Quincy Watts,USA,43.50,Olympic record,Barcelona,1992
+Steve Lewis,USA,44.21,,Barcelona,1992
+Samson Kitur,KEN,44.24,,Barcelona,1992
+Ian Morris,TTO,44.25,,Barcelona,1992
+Roberto Hernández,CUB,44.52,,Barcelona,1992
+David Grindley,GBR,44.75,,Barcelona,1992
+Ibrahim Ismail S Faraj,QAT,45.10,,Barcelona,1992
+Susumu Takano,JPN,45.18,,Barcelona,1992

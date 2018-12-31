@@ -1,0 +1,32 @@
+﻿Continent,Summer,Year,Opening Ceremony,Closing Ceremony,Cleaned City,URL,Command
+Europe,I,1896,6-Apr,15-Apr,athens,https://www.olympic.org/athens-1896/athletics/400m-men,python3 get_data.py https://www.olympic.org/athens-1896/athletics/400m-men
+Europe,II,1900,14-May,28-Oct,paris,https://www.olympic.org/paris-1900/athletics/400m-men,python3 get_data.py https://www.olympic.org/paris-1900/athletics/400m-men
+North America,III,1904,1-Jul,23-Nov,st-louis,https://www.olympic.org/st-louis-1904/athletics/400m-men,python3 get_data.py https://www.olympic.org/st-louis-1904/athletics/400m-men
+Europe,IV,1908,27-Apr,31-Oct,london,https://www.olympic.org/london-1908/athletics/400m-men,python3 get_data.py https://www.olympic.org/london-1908/athletics/400m-men
+Europe,V,1912,5-May,22-Jul,stockholm,https://www.olympic.org/stockholm-1912/athletics/400m-men,python3 get_data.py https://www.olympic.org/stockholm-1912/athletics/400m-men
+Europe,VII,1920,20-Apr,September 12[11],antwerp,https://www.olympic.org/antwerp-1920/athletics/400m-men,python3 get_data.py https://www.olympic.org/antwerp-1920/athletics/400m-men
+Europe,VIII,1924,4-May,July 27[13],paris,https://www.olympic.org/paris-1924/athletics/400m-men,python3 get_data.py https://www.olympic.org/paris-1924/athletics/400m-men
+Europe,IX,1928,17-May,August 12[15],amsterdam,https://www.olympic.org/amsterdam-1928/athletics/400m-men,python3 get_data.py https://www.olympic.org/amsterdam-1928/athletics/400m-men
+North America,X,1932,30-Jul,August 14[17],los-angeles,https://www.olympic.org/los-angeles-1932/athletics/400m-men,python3 get_data.py https://www.olympic.org/los-angeles-1932/athletics/400m-men
+Europe,XI,1936,1-Aug,August 16[19],berlin,https://www.olympic.org/berlin-1936/athletics/400m-men,python3 get_data.py https://www.olympic.org/berlin-1936/athletics/400m-men
+Europe,XIV,1948,29-Jul,14-Aug,london,https://www.olympic.org/london-1948/athletics/400m-men,python3 get_data.py https://www.olympic.org/london-1948/athletics/400m-men
+Europe,XV,1952,19-Jul,3-Aug,helsinki,https://www.olympic.org/helsinki-1952/athletics/400m-men,python3 get_data.py https://www.olympic.org/helsinki-1952/athletics/400m-men
+Oceania,XVI,1956,22-Nov,8-Dec,melbourne-/-stockholm,https://www.olympic.org/melbourne-/-stockholm-1956/athletics/400m-men,python3 get_data.py https://www.olympic.org/melbourne-/-stockholm-1956/athletics/400m-men
+Europe,XVII,1960,25-Aug,11-Sep,rome,https://www.olympic.org/rome-1960/athletics/400m-men,python3 get_data.py https://www.olympic.org/rome-1960/athletics/400m-men
+Asia,XVIII,1964,10-Oct,24-Oct,tokyo,https://www.olympic.org/tokyo-1964/athletics/400m-men,python3 get_data.py https://www.olympic.org/tokyo-1964/athletics/400m-men
+North America,XIX,1968,12-Oct,27-Oct,mexico,https://www.olympic.org/mexico-1968/athletics/400m-men,python3 get_data.py https://www.olympic.org/mexico-1968/athletics/400m-men
+Europe,XX,1972,26-Aug,11-Sep,munich,https://www.olympic.org/munich-1972/athletics/400m-men,python3 get_data.py https://www.olympic.org/munich-1972/athletics/400m-men
+North America,XXI,1976,17-Jul,1-Aug,montreal,https://www.olympic.org/montreal-1976/athletics/400m-men,python3 get_data.py https://www.olympic.org/montreal-1976/athletics/400m-men
+Europe[h],XXII,1980,19-Jul,3-Aug,moscow,https://www.olympic.org/moscow-1980/athletics/400m-men,python3 get_data.py https://www.olympic.org/moscow-1980/athletics/400m-men
+North America,XXIII,1984,28-Jul,12-Aug,los-angeles,https://www.olympic.org/los-angeles-1984/athletics/400m-men,python3 get_data.py https://www.olympic.org/los-angeles-1984/athletics/400m-men
+Asia,XXIV,1988,17-Sep,2-Oct,seoul,https://www.olympic.org/seoul-1988/athletics/400m-men,python3 get_data.py https://www.olympic.org/seoul-1988/athletics/400m-men
+Europe,XXV,1992,25-Jul,9-Aug,barcelona,https://www.olympic.org/barcelona-1992/athletics/400m-men,python3 get_data.py https://www.olympic.org/barcelona-1992/athletics/400m-men
+North America,XXVI,1996,19-Jul,4-Aug,atlanta,https://www.olympic.org/atlanta-1996/athletics/400m-men,python3 get_data.py https://www.olympic.org/atlanta-1996/athletics/400m-men
+Oceania,XXVII,2000,15-Sep,1-Oct,sydney,https://www.olympic.org/sydney-2000/athletics/400m-men,python3 get_data.py https://www.olympic.org/sydney-2000/athletics/400m-men
+Europe,XXVIII,2004,13-Aug,29-Aug,athens,https://www.olympic.org/athens-2004/athletics/400m-men,python3 get_data.py https://www.olympic.org/athens-2004/athletics/400m-men
+Asia,XXIX,2008,8-Aug,24-Aug,beijing,https://www.olympic.org/beijing-2008/athletics/400m-men,python3 get_data.py https://www.olympic.org/beijing-2008/athletics/400m-men
+Europe,XXX,2012,27-Jul,12-Aug,london,https://www.olympic.org/london-2012/athletics/400m-men,python3 get_data.py https://www.olympic.org/london-2012/athletics/400m-men
+South America,XXXI,2016,5-Aug,21-Aug,rio,https://www.olympic.org/rio-2016/athletics/400m-men,python3 get_data.py https://www.olympic.org/rio-2016/athletics/400m-men
+Asia,XXXII,2020,24-Jul,9-Aug,tokyo,https://www.olympic.org/tokyo-2020/athletics/400m-men,python3 get_data.py https://www.olympic.org/tokyo-2020/athletics/400m-men
+Europe,XXXIII,2024,26-Jul,11-Aug,paris,https://www.olympic.org/paris-2024/athletics/400m-men,python3 get_data.py https://www.olympic.org/paris-2024/athletics/400m-men
+North America,XXXIV,2028,21-Jul,6-Aug,los-angeles,https://www.olympic.org/los-angeles-2028/athletics/400m-men,python3 get_data.py https://www.olympic.org/los-angeles-2028/athletics/400m-men

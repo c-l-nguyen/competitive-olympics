@@ -1,13 +1,13 @@
-Participant,Country,Result,Notes
-Harry Hillman,USA,49.2,Olympic record
-Frank Waller,USA,49.9,
-Herman Groman,USA,50.0,
-Joseph Fleming,USA,,
-Meyer Prinstein,USA,,
-George Poage,USA,,
-Clyde Amel Blair,USA,,Qualified
-George Underwood,USA,,Qualified
-Howard Valentine,USA,,Qualified
-Johannes Runge,GER,,Qualified
-Paul Pilgrim,USA,,Qualified
-Percival Molson,CAN,,
+Participant,Country,Result,Notes,Location,Event_Year
+Harry Hillman,USA,49.2,Olympic record,St Louis,1904
+Frank Waller,USA,49.9,,St Louis,1904
+Herman Groman,USA,50.0,,St Louis,1904
+Joseph Fleming,USA,,,St Louis,1904
+Meyer Prinstein,USA,,,St Louis,1904
+George Poage,USA,,,St Louis,1904
+Clyde Amel Blair,USA,,Qualified,St Louis,1904
+George Underwood,USA,,Qualified,St Louis,1904
+Howard Valentine,USA,,Qualified,St Louis,1904
+Johannes Runge,GER,,Qualified,St Louis,1904
+Paul Pilgrim,USA,,Qualified,St Louis,1904
+Percival Molson,CAN,,,St Louis,1904

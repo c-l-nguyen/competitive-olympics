@@ -1,7 +1,7 @@
-Participant,Country,Result,Notes
-Raymond James Barbuti,USA,47.8,
-James Ball,CAN,48.0,
-Joachim Büchner,GER,48.2,
-John William Joslin Rinkel,GBR,48.4,
-Harry Storz,GER,48.8,
-Hermon Edgar Phillips,USA,49.0,
+Participant,Country,Result,Notes,Location,Event_Year
+Raymond James Barbuti,USA,47.8,,Amsterdam,1928
+James Ball,CAN,48.0,,Amsterdam,1928
+Joachim Büchner,GER,48.2,,Amsterdam,1928
+John William Joslin Rinkel,GBR,48.4,,Amsterdam,1928
+Harry Storz,GER,48.8,,Amsterdam,1928
+Hermon Edgar Phillips,USA,49.0,,Amsterdam,1928

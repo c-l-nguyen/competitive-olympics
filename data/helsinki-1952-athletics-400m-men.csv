@@ -1,7 +1,7 @@
-Participant,Country,Result,Notes
-George Rhoden,JAM,45.9,Olympic record
-Herbert Mckenley,JAM,45.9,Olympic record
-Ollie Matson,USA,46.8,
-Karl-Friedrich Haas,EUA,47.0,
-Arthur Wint,JAM,47.0,
-Mal Whitfield,USA,47.1,
+Participant,Country,Result,Notes,Location,Event_Year
+George Rhoden,JAM,45.9,Olympic record,Helsinki,1952
+Herbert Mckenley,JAM,45.9,Olympic record,Helsinki,1952
+Ollie Matson,USA,46.8,,Helsinki,1952
+Karl-Friedrich Haas,EUA,47.0,,Helsinki,1952
+Arthur Wint,JAM,47.0,,Helsinki,1952
+Mal Whitfield,USA,47.1,,Helsinki,1952

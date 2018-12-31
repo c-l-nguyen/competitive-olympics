@@ -1,4 +1,4 @@
-Participant,Country,Result,Notes
-John Cox Atlee,USA,50.4,
-Alan Patterson,GBR,,
-Giuseppe Tarella,ITA,,
+Participant,Country,Result,Notes,Location,Event_Year
+John Cox Atlee,USA,50.4,,London,1908
+Alan Patterson,GBR,,,London,1908
+Giuseppe Tarella,ITA,,,London,1908

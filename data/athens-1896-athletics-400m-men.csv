@@ -1,6 +1,6 @@
-Participant,Country,Result,Notes
-Thomas Burke,USA,54.2,
-Herbert Jamison,USA,55.2,Time estimated
-Charles Gmelin,GBR,55.6,Time estimated
-Fritz Hofmann,GER,55.6,
-Alphonse Grisel,FRA,,Qualified
+Participant,Country,Result,Notes,Location,Event_Year
+Thomas Burke,USA,54.2,,Athens,1896
+Herbert Jamison,USA,55.2,Time estimated,Athens,1896
+Charles Gmelin,GBR,55.6,Time estimated,Athens,1896
+Fritz Hofmann,GER,55.6,,Athens,1896
+Alphonse Grisel,FRA,,Qualified,Athens,1896

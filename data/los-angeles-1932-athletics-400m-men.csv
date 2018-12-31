@@ -1,7 +1,7 @@
-Participant,Country,Result,Notes
-William Arthur Carr,USA,46.2,Olympic and World Record
-Benjamin Bangs Eastman,USA,46.4,
-Alex Wilson,CAN,47.4,
-William Walters,RSA,48.2,
-James Allen Gordon,USA,48.2,
-George Golding,AUS,48.8,
+Participant,Country,Result,Notes,Location,Event_Year
+William Arthur Carr,USA,46.2,Olympic and World Record,Los Angeles,1932
+Benjamin Bangs Eastman,USA,46.4,,Los Angeles,1932
+Alex Wilson,CAN,47.4,,Los Angeles,1932
+William Walters,RSA,48.2,,Los Angeles,1932
+James Allen Gordon,USA,48.2,,Los Angeles,1932
+George Golding,AUS,48.8,,Los Angeles,1932

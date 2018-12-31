@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Roger Black,GBR,45.28,
-Neil De Silva,TTO,45.34,
-Stefan Balosak,SVK,45.86,
-Jude Monye,NGR,46.10,
-Michael Joubert,AUS,46.30,
-Kossi Akoto,TOG,46.94,National Record
-Mustafa Abdelnaser,LBA,50.12,
-Amar Hecini,ALG,47.34,
+Participant,Country,Result,Notes,Location,Event_Year
+Roger Black,GBR,45.28,,Atlanta,1996
+Neil De Silva,TTO,45.34,,Atlanta,1996
+Stefan Balosak,SVK,45.86,,Atlanta,1996
+Jude Monye,NGR,46.10,,Atlanta,1996
+Michael Joubert,AUS,46.30,,Atlanta,1996
+Kossi Akoto,TOG,46.94,National Record,Atlanta,1996
+Mustafa Abdelnaser,LBA,50.12,,Atlanta,1996
+Amar Hecini,ALG,47.34,,Atlanta,1996

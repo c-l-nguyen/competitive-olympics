@@ -1,8 +1,8 @@
-Participant,Country,Result,Notes
-Derrick Brew,USA,45.05,Qualified
-Davian Clarke,JAM,45.27,Qualified
-Chris Brown,BAH,45.31,
-Yeimer Lopez,CUB,45.52,
-Alejandro Cardenas,MEX,45.64,
-K Mathews Binu,IND,45.97,
-Matija ?Estak,SLO,46.54,
+Participant,Country,Result,Notes,Location,Event_Year
+Derrick Brew,USA,45.05,Qualified,Athens,2004
+Davian Clarke,JAM,45.27,Qualified,Athens,2004
+Chris Brown,BAH,45.31,,Athens,2004
+Yeimer Lopez,CUB,45.52,,Athens,2004
+Alejandro Cardenas,MEX,45.64,,Athens,2004
+K Mathews Binu,IND,45.97,,Athens,2004
+Matija ?Estak,SLO,46.54,,Athens,2004

@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Lee Evans,USA,43.8,Olympic and World Record
-Larry James,USA,43.9,Olympic and World Record
-Ron Freeman,USA,44.4,Olympic and World Record
-Amadou Gakou,SEN,45.0,
-Martin Jellinghaus,FRG,45.3,
-Tegegne Bezabeh,ETH,45.4,
-Andrzej Badenski,POL,45.4,
-Amos Omolo,UGA,47.6,
+Participant,Country,Result,Notes,Location,Event_Year
+Lee Evans,USA,43.8,Olympic and World Record,Mexico,1968
+Larry James,USA,43.9,Olympic and World Record,Mexico,1968
+Ron Freeman,USA,44.4,Olympic and World Record,Mexico,1968
+Amadou Gakou,SEN,45.0,,Mexico,1968
+Martin Jellinghaus,FRG,45.3,,Mexico,1968
+Tegegne Bezabeh,ETH,45.4,,Mexico,1968
+Andrzej Badenski,POL,45.4,,Mexico,1968
+Amos Omolo,UGA,47.6,,Mexico,1968

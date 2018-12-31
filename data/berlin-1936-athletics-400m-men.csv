@@ -1,7 +1,7 @@
-Participant,Country,Result,Notes
-Archibald Franklin Williams,USA,46.5,
-Godfrey Brown,GBR,46.7,
-James Ellis Lu Valle,USA,46.8,
-William Roberts,GBR,46.8,
-William Fritz,CAN,47.8,
-John Loaring,CAN,48.2,
+Participant,Country,Result,Notes,Location,Event_Year
+Archibald Franklin Williams,USA,46.5,,Berlin,1936
+Godfrey Brown,GBR,46.7,,Berlin,1936
+James Ellis Lu Valle,USA,46.8,,Berlin,1936
+William Roberts,GBR,46.8,,Berlin,1936
+William Fritz,CAN,47.8,,Berlin,1936
+John Loaring,CAN,48.2,,Berlin,1936

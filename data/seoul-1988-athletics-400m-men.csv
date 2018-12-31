@@ -1,14 +1,14 @@
-Participant,Country,Result,Notes
-Steve Lewis,USA,43.87,
-Harry Butch . Reynolds,USA,43.93,
-Danny Everett,USA,44.09,
-Darren Clark,AUS,44.55,
-Innocent Egbunike,NGR,44.72,
-Bertland Cameron,JAM,44.94,
-Ian Morris,TTO,44.95,
-Mohammed Amer Al-Malky,OMA,45.03,
-Derek Redmond,GBR,,
-Luis Neto,ANG,,
-Ousmane Diarra,SEN,,
-Porfirio Mendez,PAR,,
-William Taramai,COK,,
+Participant,Country,Result,Notes,Location,Event_Year
+Steve Lewis,USA,43.87,,Seoul,1988
+Harry Butch . Reynolds,USA,43.93,,Seoul,1988
+Danny Everett,USA,44.09,,Seoul,1988
+Darren Clark,AUS,44.55,,Seoul,1988
+Innocent Egbunike,NGR,44.72,,Seoul,1988
+Bertland Cameron,JAM,44.94,,Seoul,1988
+Ian Morris,TTO,44.95,,Seoul,1988
+Mohammed Amer Al-Malky,OMA,45.03,,Seoul,1988
+Derek Redmond,GBR,,,Seoul,1988
+Luis Neto,ANG,,,Seoul,1988
+Ousmane Diarra,SEN,,,Seoul,1988
+Porfirio Mendez,PAR,,,Seoul,1988
+William Taramai,COK,,,Seoul,1988

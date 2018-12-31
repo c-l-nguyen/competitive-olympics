@@ -1,37 +1,37 @@
-Participant,Country,Result,Notes
-Bevil Rudd,RSA,0:49.6,
-Guy Butler,GBR,0:49.9,
-Nils Engdahl,SWE,0:50.0,
-Frank Shea,USA,,
-John Ainsworth-Davis,GBR,,
-Harry Davel,RSA,,
-Achmed Abbas Sabri,EGY,,Qualified
-Anatole Bolin,SWE,,Qualified
-Clarence Oldfield,RSA,,Qualified
-Egide Simonazzi,ITA,,Qualified
-Einar Mangset,NOR,,Qualified
-Erik Sundblad,SWE,,Qualified
-Erkka Wilen,FIN,,Qualified
-Eugène Bayon,FRA,,Qualified
-Francis Irvine,RSA,,Qualified
-François Morren,BEL,,Qualified
-Gaston Féry,FRA,,Qualified
-George Schiller,USA,,Qualified
-Georges Andre,FRA,,Qualified
-Giovanni Tosi,ITA,,Qualified
-Giuseppe Bernardoni,ITA,,Qualified
-Hector Phillips,CAN,,Qualified
-Hedges Worthington-Eyre,GBR,,Qualified
-James Edwin Meredith,USA,,Qualified
-Jean Proess,LUX,,Qualified
-José García,ESP,,Qualified
-Jules F. Migeot,BEL,,Qualified
-Karel Frankenstein,TCH,,Qualified
-Karel Pribyl,TCH,,Qualified
-Maurice Delvart,FRA,,Qualified
-Miguel Garcia-Onsalo,ESP,,Qualified
-Omer Gustave Corteyn,BEL,,Qualified
-Reinhold Saulmann,EST,,Qualified
-Robert Lindsay,GBR,,Qualified
-Robert Simpson Emery,USA,,Qualified
-Sven Krokström,SWE,,Qualified
+Participant,Country,Result,Notes,Location,Event_Year
+Bevil Rudd,RSA,0:49.6,,Antwerp,1920
+Guy Butler,GBR,0:49.9,,Antwerp,1920
+Nils Engdahl,SWE,0:50.0,,Antwerp,1920
+Frank Shea,USA,,,Antwerp,1920
+John Ainsworth-Davis,GBR,,,Antwerp,1920
+Harry Davel,RSA,,,Antwerp,1920
+Achmed Abbas Sabri,EGY,,Qualified,Antwerp,1920
+Anatole Bolin,SWE,,Qualified,Antwerp,1920
+Clarence Oldfield,RSA,,Qualified,Antwerp,1920
+Egide Simonazzi,ITA,,Qualified,Antwerp,1920
+Einar Mangset,NOR,,Qualified,Antwerp,1920
+Erik Sundblad,SWE,,Qualified,Antwerp,1920
+Erkka Wilen,FIN,,Qualified,Antwerp,1920
+Eugène Bayon,FRA,,Qualified,Antwerp,1920
+Francis Irvine,RSA,,Qualified,Antwerp,1920
+François Morren,BEL,,Qualified,Antwerp,1920
+Gaston Féry,FRA,,Qualified,Antwerp,1920
+George Schiller,USA,,Qualified,Antwerp,1920
+Georges Andre,FRA,,Qualified,Antwerp,1920
+Giovanni Tosi,ITA,,Qualified,Antwerp,1920
+Giuseppe Bernardoni,ITA,,Qualified,Antwerp,1920
+Hector Phillips,CAN,,Qualified,Antwerp,1920
+Hedges Worthington-Eyre,GBR,,Qualified,Antwerp,1920
+James Edwin Meredith,USA,,Qualified,Antwerp,1920
+Jean Proess,LUX,,Qualified,Antwerp,1920
+José García,ESP,,Qualified,Antwerp,1920
+Jules F. Migeot,BEL,,Qualified,Antwerp,1920
+Karel Frankenstein,TCH,,Qualified,Antwerp,1920
+Karel Pribyl,TCH,,Qualified,Antwerp,1920
+Maurice Delvart,FRA,,Qualified,Antwerp,1920
+Miguel Garcia-Onsalo,ESP,,Qualified,Antwerp,1920
+Omer Gustave Corteyn,BEL,,Qualified,Antwerp,1920
+Reinhold Saulmann,EST,,Qualified,Antwerp,1920
+Robert Lindsay,GBR,,Qualified,Antwerp,1920
+Robert Simpson Emery,USA,,Qualified,Antwerp,1920
+Sven Krokström,SWE,,Qualified,Antwerp,1920

@@ -1,8 +1,8 @@
-Participant,Country,Result,Notes
-Arthur Wint,JAM,46.2,EQUALS OLYMPIC RECORD
-Herbert Mckenley,JAM,46.4,
-Mal Whitfield,USA,46.9,
-David Benjamin Bolen,USA,47.2,
-Morris Joseph Curotta,AUS,47.9,
-George James Guida,USA,50.2,
-Donald Cecil Mcfarlane,CAN,,Qualified
+Participant,Country,Result,Notes,Location,Event_Year
+Arthur Wint,JAM,46.2,EQUALS OLYMPIC RECORD,London,1948
+Herbert Mckenley,JAM,46.4,,London,1948
+Mal Whitfield,USA,46.9,,London,1948
+David Benjamin Bolen,USA,47.2,,London,1948
+Morris Joseph Curotta,AUS,47.9,,London,1948
+George James Guida,USA,50.2,,London,1948
+Donald Cecil Mcfarlane,CAN,,Qualified,London,1948

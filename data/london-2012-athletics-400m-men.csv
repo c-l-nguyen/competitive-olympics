@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Kirani James,GRN,43.94,
-Luguelin Santos,DOM,44.46,
-Lalonde Gordon,TTO,44.52,
-Chris Brown,BAH,44.79,
-Kevin Borlee,BEL,44.81,
-Jonathan Borlee,BEL,44.83,
-Demetrius Pinder,BAH,44.98,
-Steven Solomon,AUS,45.14,
+Participant,Country,Result,Notes,Location,Event_Year
+Kirani James,GRN,43.94,,London,2012
+Luguelin Santos,DOM,44.46,,London,2012
+Lalonde Gordon,TTO,44.52,,London,2012
+Chris Brown,BAH,44.79,,London,2012
+Kevin Borlee,BEL,44.81,,London,2012
+Jonathan Borlee,BEL,44.83,,London,2012
+Demetrius Pinder,BAH,44.98,,London,2012
+Steven Solomon,AUS,45.14,,London,2012

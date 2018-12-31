@@ -1,7 +1,7 @@
-Participant,Country,Result,Notes
-Eric Liddell,GBR,47.6,
-Horatio Fitch,USA,48.4,
-Guy Butler,GBR,48.6,
-David Johnson,CAN,48.8,
-John-Coard Taylor,USA,,
-Josef Imbach,SUI,,FALL
+Participant,Country,Result,Notes,Location,Event_Year
+Eric Liddell,GBR,47.6,,Paris,1924
+Horatio Fitch,USA,48.4,,Paris,1924
+Guy Butler,GBR,48.6,,Paris,1924
+David Johnson,CAN,48.8,,Paris,1924
+John-Coard Taylor,USA,,,Paris,1924
+Josef Imbach,SUI,,FALL,Paris,1924

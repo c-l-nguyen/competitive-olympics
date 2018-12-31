@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Mike Larrabee,USA,45.1,
-Wendell Mottley,TTO,45.2,
-Andrzej Badenski,POL,45.6,
-Robbie Brightwell,GBR,45.7,
-Ulis Williams,USA,46.0,
-Tim Graham,GBR,46.0,
-Peter Vassella,AUS,46.3,
-Edwin Skinner,TTO,46.8,
+Participant,Country,Result,Notes,Location,Event_Year
+Mike Larrabee,USA,45.1,,Tokyo,1964
+Wendell Mottley,TTO,45.2,,Tokyo,1964
+Andrzej Badenski,POL,45.6,,Tokyo,1964
+Robbie Brightwell,GBR,45.7,,Tokyo,1964
+Ulis Williams,USA,46.0,,Tokyo,1964
+Tim Graham,GBR,46.0,,Tokyo,1964
+Peter Vassella,AUS,46.3,,Tokyo,1964
+Edwin Skinner,TTO,46.8,,Tokyo,1964

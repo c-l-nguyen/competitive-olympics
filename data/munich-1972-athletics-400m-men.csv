@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Vince Matthews,USA,44.66,
-Wayne Collett,USA,44.80,
-Julius Sang,KEN,44.92,
-Charles Asati,KEN,45.13,
-Horst-Rüdiger Schlöske,FRG,45.31,
-Markku Juhani Kukkoaho,FIN,45.49,
-Karl Honz,FRG,45.68,
-John Smith,USA,,Did not finish
+Participant,Country,Result,Notes,Location,Event_Year
+Vince Matthews,USA,44.66,,Munich,1972
+Wayne Collett,USA,44.80,,Munich,1972
+Julius Sang,KEN,44.92,,Munich,1972
+Charles Asati,KEN,45.13,,Munich,1972
+Horst-Rüdiger Schlöske,FRG,45.31,,Munich,1972
+Markku Juhani Kukkoaho,FIN,45.49,,Munich,1972
+Karl Honz,FRG,45.68,,Munich,1972
+John Smith,USA,,Did not finish,Munich,1972

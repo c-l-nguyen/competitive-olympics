@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Wayde Van Niekerk,RSA,43.03,
-Kirani James,GRN,43.76,
-Lashawn Merritt,USA,43.85,
-Machel Cedenio,TTO,44.01,
-Karabo Sibanda,BOT,44.25,
-Ali Khamis Khamis,BRN,44.36,
-Bralon Taplin,GRN,44.45,
-Matthew Hudson-Smith,GBR,44.61,
+Participant,Country,Result,Notes,Location,Event_Year
+Wayde Van Niekerk,RSA,43.03,,Rio,2016
+Kirani James,GRN,43.76,,Rio,2016
+Lashawn Merritt,USA,43.85,,Rio,2016
+Machel Cedenio,TTO,44.01,,Rio,2016
+Karabo Sibanda,BOT,44.25,,Rio,2016
+Ali Khamis Khamis,BRN,44.36,,Rio,2016
+Bralon Taplin,GRN,44.45,,Rio,2016
+Matthew Hudson-Smith,GBR,44.61,,Rio,2016

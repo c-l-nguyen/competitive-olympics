@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Alberto Juantorena,CUB,44.26,
-Frederick Vaughn Newhouse,USA,44.40,
-Herman Ronald Frazier,USA,44.95,
-Alfons Brijdenbach,BEL,45.04,
-Maxwell Lander Parks,USA,45.24,
-Rick Mitchell,AUS,45.40,
-David Andrew Jenkins,GBR,45.57,
-Jan Werner,POL,45.63,
+Participant,Country,Result,Notes,Location,Event_Year
+Alberto Juantorena,CUB,44.26,,Montreal,1976
+Frederick Vaughn Newhouse,USA,44.40,,Montreal,1976
+Herman Ronald Frazier,USA,44.95,,Montreal,1976
+Alfons Brijdenbach,BEL,45.04,,Montreal,1976
+Maxwell Lander Parks,USA,45.24,,Montreal,1976
+Rick Mitchell,AUS,45.40,,Montreal,1976
+David Andrew Jenkins,GBR,45.57,,Montreal,1976
+Jan Werner,POL,45.63,,Montreal,1976

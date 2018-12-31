@@ -1,9 +1,9 @@
-Participant,Country,Result,Notes
-Lashawn Merritt,USA,43.75,
-Jeremy Wariner,USA,44.74,
-David Neville,USA,44.80,
-Chris Brown,BAH,44.84,
-Leslie Djhone,FRA,45.11,
-Martyn Rooney,GBR,45.12,
-Renny Quow,TTO,45.22,
-Johan Wissman,SWE,45.39,
+Participant,Country,Result,Notes,Location,Event_Year
+Lashawn Merritt,USA,43.75,,Beijing,2008
+Jeremy Wariner,USA,44.74,,Beijing,2008
+David Neville,USA,44.80,,Beijing,2008
+Chris Brown,BAH,44.84,,Beijing,2008
+Leslie Djhone,FRA,45.11,,Beijing,2008
+Martyn Rooney,GBR,45.12,,Beijing,2008
+Renny Quow,TTO,45.22,,Beijing,2008
+Johan Wissman,SWE,45.39,,Beijing,2008
