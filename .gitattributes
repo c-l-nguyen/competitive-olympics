@@ -1,2 +1,2 @@
-*ipynb linguist-documentation=true
+*.ipynb linguist-vendored
 *.sh linguist-vendored
