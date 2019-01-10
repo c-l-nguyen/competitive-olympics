@@ -1,40 +1,28 @@
 #!/usr/bin/python3
 
 # import libraries
-import requests, csv, sys
+import requests, csv, sys, os
+import olympics_func as of
 from bs4 import BeautifulSoup
 
-# specify url
+# specify url and check that it is valid
 quote_page = str(sys.argv[1])
+if "https://www.olympic.org/" not in quote_page:
+	print("This is not an Olympics web page!")
+	sys.exit(0)
 
-# special exception for Melborne/Stockholm 1956
-if quote_page != "https://www.olympic.org/melbourne-/-stockholm-1956/athletics/400m-men":
-	# split apart URL by delimiter and initialize location
-	url_list=quote_page.split("/")
-	location=""
-
-	# parse location out of url_list
-	venue=url_list[3].split("-")
-	place=venue[:len(venue)-1]
-
-	for i in range(len(place)):
-		location+=(place[i]+" ")
-
-	# format location and extract year of event
-	location = location.rstrip().title()
-	year=url_list[3].split("-")[-1]
-else:
-	location="Melbourne-Stockholm"
-	year=1956
+(location, year) = of.loc_year(quote_page)
 
 # build CSV filename
 domain_length = len('https://www.olympic.org/')
 csvname = quote_page[domain_length:].replace("/","-") + '.csv'
 
+# delete CSV file if already existing
+if os.path.isfile('../data/'+csvname):
+    os.remove('../data/'+csvname)
+
 # write out header row to CSV file
-with open('../data/'+ csvname,'a') as csv_file:
-		writer = csv.writer(csv_file)
-		writer.writerow(["Participant","Country","Result","Notes","Location","Event_Year"])
+of.csv_write(csvname,"Participant","Country","Result","Notes","Location","Event_Year")
 
 # query the website and return html to the variable page
 page = requests.get(quote_page)
@@ -60,8 +48,5 @@ for i in num_participants:
 	notes_box = soup.find_all("td",attrs={"class":"last mobile-hide"})[i]
 	notes = notes_box.text.strip()
 
-
 	# write out full results list to CSV file
-	with open('../data/'+ csvname,'a') as csv_file:
-		writer = csv.writer(csv_file)
-		writer.writerow([name,country,result,notes, location, year]) # recall that location and year were parsed above
+	of.csv_write(csvname,name,country,result,notes,location,year)
